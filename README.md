@@ -14,8 +14,8 @@
 ### API
 
 ### UML
-* ![Wireframe](./game-addict/public/assets/wireframe.jpg)
-* ![Database-SQL](./game-addict/public/assets/SQL.jpg)
-* ![Components](./game-addict/public/assets/components.jpg)
+![Wireframe](./game-addict/public/assets/wireframe.jpg)
+![Database-SQL](./game-addict/public/assets/SQL.jpg)
+![Components](./game-addict/public/assets/components.jpg)
 
 ### Change Log
